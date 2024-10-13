@@ -1,5 +1,10 @@
-# Vue 3 + TypeScript + Vite
+#First test using bolt.new
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Prompt: 
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+Create a new webapp using vue 3 latest version with vue router, pinia store, typescript, beercss, desktop and PWA with a login page setting the user to localStorage, a pinia state to detect device and set the user isDesktop and isMobile, Home page will be just a chat gpt where the user type a question, a sidenav with logo and a database nav link. On the database the user can create, edit, delete.... 
+
+- First error: wrong install of beercss
+- Second error: assets missing in the folder structure
+- CSS almost non-existent
+
